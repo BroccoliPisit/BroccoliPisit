@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Pisit</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">I am an entrepreneur with a passion for technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/30/5f/f8/305ff88e24f9460bb79644e197af92a9.gif">
 
 
-- 💬 Ask me about **AI camera detection CiRA CORE, Website developer**
+- 💬 Ask me about **Healthy and technology**
 
 - 📫 How to reach me **pisit1205.personal@gmail.com**
 
